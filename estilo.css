@@ -1,0 +1,43 @@
+body, div{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background: #ededed;
+}
+
+canvas{
+    border: 1px solid #000;
+    background: white;
+}
+
+.editor{
+    width: fit-content;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 0px;
+}
+h2{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.bg-color-aqua{
+    background-color: #aaa;
+    margin-top: 5px;
+}
+.bg-color-aqua input{
+    background-color: #aaa;
+}
+.bg-color-aqua input:hover{
+    background-color: #bde;
+}
+.red{
+    color: #b30606
+}
+
+#lw{
+    width: 86%;
+    height: 10px;
+    margin-bottom: 10px;
+}
